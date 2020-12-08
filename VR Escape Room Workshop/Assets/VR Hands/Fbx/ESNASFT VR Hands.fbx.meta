@@ -1,0 +1,3000 @@
+fileFormatVersion: 2
+guid: ff0676c8d91f84f49b766d604828e420
+timeCreated: 1521591832
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ENSNSFT_Male_Hand
+    100002: //RootNode
+    100004: Female_low_res_ENSNSFT_Female_Hand
+    100006: J_Hand_01
+    100008: J_Hand_02
+    100010: J_Hand_03
+    100012: J_Hand_04
+    100014: J_Hand_index_01
+    100016: J_Hand_index_02
+    100018: J_Hand_index_03
+    100020: J_Hand_index_04
+    100022: J_Hand_middle_01
+    100024: J_Hand_middle_02
+    100026: J_Hand_middle_03
+    100028: J_Hand_middle_04
+    100030: J_Hand_pinky_01
+    100032: J_Hand_pinky_02
+    100034: J_Hand_pinky_03
+    100036: J_Hand_pinky_04
+    100038: J_Hand_ring_01
+    100040: J_Hand_ring_02
+    100042: J_Hand_ring_03
+    100044: J_Hand_ring_04
+    100046: J_Hand_thumb_01
+    100048: J_Hand_thumb_02
+    100050: J_Hand_thumb_03
+    100052: J_Hand_thumb_04
+    100054: Jericho_A03
+    100056: Jericho_rope_hand
+    100058: Katana_hand_cloths
+    100060: Misty_cloth_hands
+    100062: nurbsCircle1
+    100064: Seraphim_hand_cloth
+    100066: Sseraphin_Ring
+    100068: Sseraphin_Ring1
+    100070: Tempest_0
+    100072: Tempest_01
+    100074: Tempest_1
+    100076: Tempest_10
+    100078: Tempest_11
+    100080: Tempest_12
+    100082: Tempest_13
+    100084: Tempest_14
+    100086: Tempest_15
+    100088: Tempest_2
+    100090: Tempest_3
+    100092: Tempest_5
+    100094: Tempest_6
+    100096: Tempest_7
+    100098: Tempest_8
+    100100: Tempest_9
+    400000: ENSNSFT_Male_Hand
+    400002: //RootNode
+    400004: Female_low_res_ENSNSFT_Female_Hand
+    400006: J_Hand_01
+    400008: J_Hand_02
+    400010: J_Hand_03
+    400012: J_Hand_04
+    400014: J_Hand_index_01
+    400016: J_Hand_index_02
+    400018: J_Hand_index_03
+    400020: J_Hand_index_04
+    400022: J_Hand_middle_01
+    400024: J_Hand_middle_02
+    400026: J_Hand_middle_03
+    400028: J_Hand_middle_04
+    400030: J_Hand_pinky_01
+    400032: J_Hand_pinky_02
+    400034: J_Hand_pinky_03
+    400036: J_Hand_pinky_04
+    400038: J_Hand_ring_01
+    400040: J_Hand_ring_02
+    400042: J_Hand_ring_03
+    400044: J_Hand_ring_04
+    400046: J_Hand_thumb_01
+    400048: J_Hand_thumb_02
+    400050: J_Hand_thumb_03
+    400052: J_Hand_thumb_04
+    400054: Jericho_A03
+    400056: Jericho_rope_hand
+    400058: Katana_hand_cloths
+    400060: Misty_cloth_hands
+    400062: nurbsCircle1
+    400064: Seraphim_hand_cloth
+    400066: Sseraphin_Ring
+    400068: Sseraphin_Ring1
+    400070: Tempest_0
+    400072: Tempest_01
+    400074: Tempest_1
+    400076: Tempest_10
+    400078: Tempest_11
+    400080: Tempest_12
+    400082: Tempest_13
+    400084: Tempest_14
+    400086: Tempest_15
+    400088: Tempest_2
+    400090: Tempest_3
+    400092: Tempest_5
+    400094: Tempest_6
+    400096: Tempest_7
+    400098: Tempest_8
+    400100: Tempest_9
+    2300000: Jericho_A03
+    2300002: Sseraphin_Ring
+    2300004: Sseraphin_Ring1
+    2300006: Tempest_0
+    2300008: Tempest_01
+    2300010: Tempest_1
+    2300012: Tempest_10
+    2300014: Tempest_11
+    2300016: Tempest_12
+    2300018: Tempest_13
+    2300020: Tempest_14
+    2300022: Tempest_15
+    2300024: Tempest_2
+    2300026: Tempest_3
+    2300028: Tempest_5
+    2300030: Tempest_6
+    2300032: Tempest_7
+    2300034: Tempest_8
+    2300036: Tempest_9
+    3300000: Jericho_A03
+    3300002: Sseraphin_Ring
+    3300004: Sseraphin_Ring1
+    3300006: Tempest_0
+    3300008: Tempest_01
+    3300010: Tempest_1
+    3300012: Tempest_10
+    3300014: Tempest_11
+    3300016: Tempest_12
+    3300018: Tempest_13
+    3300020: Tempest_14
+    3300022: Tempest_15
+    3300024: Tempest_2
+    3300026: Tempest_3
+    3300028: Tempest_5
+    3300030: Tempest_6
+    3300032: Tempest_7
+    3300034: Tempest_8
+    3300036: Tempest_9
+    4300000: ENSNSFT_Male_Hand
+    4300002: Female_low_res_ENSNSFT_Female_Hand
+    4300004: Tempest_10
+    4300006: Tempest_9
+    4300008: Tempest_8
+    4300010: Sseraphin_Ring1
+    4300012: Tempest_13
+    4300014: Tempest_12
+    4300016: Tempest_11
+    4300018: Tempest_3
+    4300020: Tempest_2
+    4300022: Tempest_1
+    4300024: Tempest_7
+    4300026: Tempest_6
+    4300028: Tempest_5
+    4300030: Sseraphin_Ring
+    4300032: Tempest_15
+    4300034: Tempest_14
+    4300036: Tempest_0
+    4300038: Jericho_A03
+    4300040: Tempest_01
+    4300042: Jericho_rope_hand
+    4300044: Seraphim_hand_cloth
+    4300046: Misty_cloth_hands
+    4300048: Katana_hand_cloths
+    7400000: ENSNFT VR HANDS Catch
+    7400002: ENSNFT VR HANDS Catch end
+    7400004: ENSNFT VR HANDS Catch pose
+    7400006: ENSNFT VR HANDS Catch start
+    7400008: ENSNFT VR HANDS throw
+    7400010: ENSNFT VR HANDS Fist Closing
+    7400012: ENSNFT VR HANDS Fist openning
+    7400014: ENSNFT VR HANDS Fist pose
+    7400016: ENSNFT VR HANDS Indicating start
+    7400018: ENSNFT VR HANDS Indicating pose
+    7400020: ENSNFT VR HANDS Indicating end
+    7400022: ENSNFT VR HANDS Neutral pose
+    7400024: ENSNFT VR HANDS Neutral pose animation
+    7400026: ENSNFT VR HANDS Pistol grip
+    7400028: ENSNFT VR HANDS Pistol pose
+    7400030: ENSNFT VR HANDS Pistol left
+    7400032: ENSNFT VR HANDSv Pistol shoot
+    7400034: ENSNFT VR HANDS SKill Selft
+    7400036: ENSNFT VR HANDS SKill Shoot 01
+    7400038: ENSNFT VR HANDS SKill Shoot 02
+    7400040: ENSNFT VR HANDS SKill Shoot loop
+    9500000: //RootNode
+    13700000: ENSNSFT_Male_Hand
+    13700002: Female_low_res_ENSNSFT_Female_Hand
+    13700004: Jericho_rope_hand
+    13700006: Katana_hand_cloths
+    13700008: Misty_cloth_hands
+    13700010: Seraphim_hand_cloth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Catch
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Catch end
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Catch pose
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Catch start
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS throw
+      takeName: Take 001
+      firstFrame: 72
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Fist Closing
+      takeName: Take 001
+      firstFrame: 95
+      lastFrame: 106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Fist openning
+      takeName: Take 001
+      firstFrame: 107
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Fist pose
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Indicating start
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Indicating pose
+      takeName: Take 001
+      firstFrame: 128
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Indicating end
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 138
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Neutral pose
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Neutral pose animation
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 238
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Pistol grip
+      takeName: Take 001
+      firstFrame: 240
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Pistol pose
+      takeName: Take 001
+      firstFrame: 251
+      lastFrame: 253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS Pistol left
+      takeName: Take 001
+      firstFrame: 261
+      lastFrame: 278
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDSv Pistol shoot
+      takeName: Take 001
+      firstFrame: 253
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS SKill Selft
+      takeName: Take 001
+      firstFrame: 278
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS SKill Shoot 01
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS SKill Shoot 02
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: ENSNFT VR HANDS SKill Shoot loop
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENSNSFT_Male_Hand
+        weight: 1
+      - path: Female_low_res_ENSNSFT_Female_Hand
+        weight: 1
+      - path: J_Hand_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/J_Hand_pinky_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/J_Hand_pinky_03/Tempest_13
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/J_Hand_pinky_02/Tempest_12
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_pinky_01/Tempest_11
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/J_Hand_ring_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/J_Hand_ring_03/Tempest_10
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/J_Hand_ring_02/Tempest_9
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Sseraphin_Ring1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_04/J_Hand_ring_01/Tempest_8
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/J_Hand_index_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/J_Hand_index_03/Tempest_7
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/J_Hand_index_02/Tempest_6
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Sseraphin_Ring
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_index_01/Tempest_5
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/J_Hand_middle_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/J_Hand_middle_03/Tempest_3
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/J_Hand_middle_02/Tempest_2
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_03/J_Hand_middle_01/Tempest_1
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/J_Hand_thumb_04
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/J_Hand_thumb_03/Tempest_15
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/J_Hand_thumb_01/J_Hand_thumb_02/Tempest_14
+        weight: 1
+      - path: J_Hand_01/J_Hand_02/Tempest_0
+        weight: 1
+      - path: J_Hand_01/Jericho_A03
+        weight: 1
+      - path: J_Hand_01/Tempest_01
+        weight: 1
+      - path: Jericho_rope_hand
+        weight: 1
+      - path: Katana_hand_cloths
+        weight: 1
+      - path: Misty_cloth_hands
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: Seraphim_hand_cloth
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
